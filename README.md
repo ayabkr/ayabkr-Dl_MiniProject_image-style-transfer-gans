@@ -30,3 +30,10 @@ References
 
 Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Johnson et al.
 Based on PyTorch implementation of Fast Neural Style Transfer
+
+## Team Members
+- BOUKHAROUBA Souad
+- BOUKENNOUCH Mariem
+- ABDELMALEK Lamia
+- SERGHINE Abdelillah
+- DAIT DEHAN Yacine  
